@@ -11,17 +11,16 @@
 </p>
 
 
-
-<h2>Hello World, I'm Wandrys! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hello World, I'm ChenJunJie! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
 
 
  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MWG.gif" width="150"  /></a>  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/MATLABWP.png" width="300"  /></a>  <a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//giphy.gif" width="300"  /></a> 
- 
- 
+
+
  <<a target="_blank"><img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/logo.png" width="300"  /></a>  <a target="_blank"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300"  /></a> 
- 
+
  
 
 
@@ -40,7 +39,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-- 🎓 I am a Accounting Sciences and Mathematics major and currently studying Statistics! 🐺
+- 🎓 I am a Accounting Computer science and technology  major and currently studying  communication engineering, Coding  and mathematics! 🐺
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
@@ -50,7 +49,7 @@
 
 
 
-I love APIs, coffee, and the Oxford comma. I am a full stack mathematician working in Matlab and Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
+I love APIs, coffee, and the Oxford comma. I am a full stack mathematician working in C/C++, Matlab and Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
 
 
 

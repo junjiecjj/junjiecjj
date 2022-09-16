@@ -49,8 +49,6 @@
 
 
 
-I love APIs, coffee, and the Oxford comma. I am a full stack mathematician working in C/C++, Matlab and Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
-
 
 
 ## Like My Work? : <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
@@ -67,37 +65,14 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
-  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-  ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
-  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-  ![WEB DEVELOPMENT](https://img.shields.io/badge/-Web%20Development-333333?style=flat&logo=web%20development)
-  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
-  ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![TKINTER](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=tkinter)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![FLASK](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![SWING](https://img.shields.io/badge/-Swing-333333?style=flat&logo=Swing)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![CockroachDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqkserver)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
+  
+  + C/C++
+  + Python
+  + ShellScript
+  + Markdown
+  + Matlab
+  
+  
 
 <br/>
 
@@ -110,18 +85,17 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 ## Social
 
-<p align="center">
-<a href="https://twitter.com/Wandrys_"><img alt="twitter"  src="https://img.shields.io/badge/Wandrys_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter profile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/matematico_do_planalto_central/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matematico_do_planalto_central-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys.sousa@protonmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+
+
 
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
 
-
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandrys-nascimento-021aa093/) 
+
+
+
+
 
 
 ## 📈 My GitHub Stats <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
@@ -146,23 +120,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 ### 📊 Overall Stats
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Wandrys-dev/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/Wandrys-dev/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandrys-dev&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Wandrys-dev&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>
-
-
 
 
 
@@ -183,26 +140,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
   </tr>
 </table>
 
-<br/>
-
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class ComputerEngineer:
-    def __init__(self):
-        self.name    = "Wandrys Nascimento"
-        self.role    = "Data Scientist"
-        self.contact = "wandrys.sousa@protonmail.com"
-        self.work    = "Data Scientist, Software, Network Systems, Web Developer"
-        self.learn   = "Image Processing and Game Programming"
-    
-    def getCity():
-        return Brasilia_Brazil()
-
-me = DataScientist()
-```
 
 
 

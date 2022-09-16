@@ -65,16 +65,30 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  
-  + C/C++
-  + Python
-  + ShellScript
-  + Markdown
-  + Matlab
-  
-  
 
-<br/>
+  + C/C++
+
+  + Python
+
+  + ShellScript
+
+  + Markdown
+
+  + Matlab
+
+  + Go
+
+  + Rust
+- 知识
+  + 通信
+  + 计算机
+  + 数学
+  + 物理
+  + 啥都不会
+
+
+
+
 
 <img align="right" width="150" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/kattoo.gif">
 
@@ -115,30 +129,17 @@
 
 ### 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Wandrys-dev&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 
 
 ### 📊 Overall Stats
 
 
 
-
-
-
-
-<table width="100%"> 
-  <tr>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&show_icons=true&theme=algolia">
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&langs_count=8&theme=algolia">
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wandrys-dev&amp;langs_count=8&amp;theme=algolia">
-    </td>
-  </tr>
-</table>
 
 
 

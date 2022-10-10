@@ -44,7 +44,7 @@
 - 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
-- 📫 How to reach me: wandrys.sousa@protonmail.com ⚛️
+- 📫 How to reach me: 2716705056@qq.com ⚛️
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
 
 
